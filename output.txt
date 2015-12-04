@@ -1,0 +1,41 @@
+>>>> TRAINING ****** third parameter = blue  FOR iteration = 0
+>>>> TRAINING ****** INDEPENDENT PARAM = positive  FOR iteration = 0
+>>>> TRAINING ****** third parameter = gray  FOR iteration = 1
+>>>> TRAINING ****** INDEPENDENT PARAM = negative  FOR iteration = 1
+>>>> TRAINING ****** third parameter = black  FOR iteration = 2
+>>>> TRAINING ****** INDEPENDENT PARAM = neutral  FOR iteration = 2
+>>>> TRAINING ****** third parameter = blue  FOR iteration = 3
+>>>> TRAINING ****** INDEPENDENT PARAM = positive  FOR iteration = 3
+>>>> TRAINING ****** third parameter = gray  FOR iteration = 4
+>>>> TRAINING ****** INDEPENDENT PARAM = negative  FOR iteration = 4
+>>>> TRAINING ****** third parameter = black  FOR iteration = 5
+>>>> TRAINING ****** INDEPENDENT PARAM = neutral  FOR iteration = 5
+>>>> TRAINING ****** third parameter = blue  FOR iteration = 6
+>>>> TRAINING ****** INDEPENDENT PARAM = positive  FOR iteration = 6
+>>>> TRAINING ****** third parameter = gray  FOR iteration = 7
+>>>> TRAINING ****** INDEPENDENT PARAM = negative  FOR iteration = 7
+>>>> TRAINING ****** third parameter = black  FOR iteration = 8
+>>>> TRAINING ****** INDEPENDENT PARAM = neutral  FOR iteration = 8
+>>>> TRAINING ****** third parameter = blue  FOR iteration = 9
+>>>> TRAINING ****** INDEPENDENT PARAM = positive  FOR iteration = 9
+>>>> TEST ###### third parameter = blue  FOR iteration = 0
+>>>> TEST ###### INDEPENDENT PARAM = positive  FOR iteration = 0
+>>>> TEST ###### third parameter = gray  FOR iteration = 1
+>>>> TEST ###### INDEPENDENT PARAM = negative  FOR iteration = 1
+>>>> TEST ###### third parameter = black  FOR iteration = 2
+>>>> TEST ###### INDEPENDENT PARAM = neutral  FOR iteration = 2
+
+Correctly Classified Instances           1               33.3333 %
+Incorrectly Classified Instances         2               66.6667 %
+Kappa statistic                          0     
+Mean absolute error                      0.3973
+Root mean squared error                  0.443 
+Relative absolute error                 89.3881 %
+Root relative squared error             93.9666 %
+Total Number of Instances                3     
+
+1.0|0.0|0.0|
+1.0|0.0|0.0|
+0.0|1.0|0.0|
+!!!!!!!!!!!!!!!!!!!!! RUN OVER !!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!! RUN OVER !!!!!!!!!!!!!!!!!!!!!
