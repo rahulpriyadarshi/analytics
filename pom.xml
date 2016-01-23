@@ -59,6 +59,7 @@
                             <goal>copy-dependencies</goal>
                         </goals>
                         <configuration>
+                            <appName>rahulmit</appName>
                             <outputDirectory>${project.build.directory}/lib</outputDirectory>
                         </configuration>
                     </execution>
